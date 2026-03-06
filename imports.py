@@ -1,5 +1,5 @@
 #import libraries and packages 
-import mne
+import mne # might need to pip install mne
 import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
