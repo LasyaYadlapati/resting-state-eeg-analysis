@@ -3,6 +3,7 @@ import mne # might need to pip install mne
 import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
+from mne.preprocessing import ICA
 
 mne.set_log_level("WARNING")
 
